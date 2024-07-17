@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.2",
@@ -21,5 +25,8 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
-  }
+  },
+  "engines": {
+  "node": "20.x"
+}
 }
